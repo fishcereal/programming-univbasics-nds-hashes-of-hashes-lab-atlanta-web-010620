@@ -38,7 +38,7 @@ def naming_system
     sub_category: {
     label: "Class"
     }
-    }
+  }
   }
   # Remember:
   #  Kingdom
