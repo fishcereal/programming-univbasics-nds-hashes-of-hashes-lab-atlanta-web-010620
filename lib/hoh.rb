@@ -47,7 +47,7 @@ def naming_system
             label: "Species",
              sub_category: {
                label: "Species",
-               sub_category: {nil}
+               sub_category: nil
              }
           }
         }
